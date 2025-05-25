@@ -28,4 +28,6 @@ The project implements a sophisticated embedding model to:
 ## Note
 Due to GDPR compliance, the actual journey data is not included in this repository. Likewise, are certain aspects of the original directory kept hidden. This repository serves the purpose of inspiration and giving a short insight into a fascinating project. For transparancies sake are otherwise *personal note*- files part of this repository without any cleanup - excuse the unstructured and messy notebooks.
 
-For questions and comments, please feel free to reach out on **tornmil@gmail.com**, or through https://tornbjerg.github.io/
+For questions and comments, please feel free to reach out on **tornmil@gmail.com**, or through https://tornbjerg.github.io/.
+
+Project made by Monica Hardt and Benjamin Millant in collaboration with IT University of Copenhagen.
